@@ -1,0 +1,8 @@
+{
+  "source": "Routit",
+  "data": {
+    "service": "Verbinding",
+    "Uplink": "100Mbit",
+    "Downlink": "100Mbit"
+  }
+}
